@@ -5,7 +5,8 @@ This is a modified version of the original project by [0x6rss](https://github.co
 Android malware (.apk) can be spread through a fake PDF document by manipulating the file extension in the WhatsApp application. PoC is available in this repo
 
 
-.resources/Wa_P-O-C.mp4
+![](.resources/Wa_P-O-C.mp4
+)
 
 ### Step 1: First, create a free account at [ultramsg](https://user.ultramsg.com/signup.php). We will use this to manage the API
 
